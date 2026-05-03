@@ -1,0 +1,9 @@
+local.properties
+*.keystore
+*.jks
+.gradle/
+build/
+app/build/
+.idea/
+.kotlin/
+desktop.ini

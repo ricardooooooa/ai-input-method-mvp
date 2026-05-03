@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="keyboard_background">#EEF1F4</color>
+    <color name="keyboard_key_background">#FFFFFF</color>
+    <color name="keyboard_action_background">#D8E2F0</color>
+    <color name="keyboard_candidate_background">#E8F6EF</color>
+    <color name="keyboard_text">#17202A</color>
+</resources>

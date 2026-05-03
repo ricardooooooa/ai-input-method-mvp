@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">AI输入法 MVP</string>
+    <string name="ime_name">AI输入法 MVP</string>
+    <string name="ime_subtype_english">English</string>
+    <string name="ai_suggest">AI建议</string>
+    <string name="delete">删除</string>
+    <string name="space">空格</string>
+    <string name="enter">换行</string>
+    <string name="enable_ime_hint">安装后请在系统输入法设置中启用本输入法，然后在输入框中切换使用。</string>
+    <string name="open_keyboard_settings">打开输入法设置</string>
+</resources>
