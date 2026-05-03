@@ -295,6 +295,22 @@ English:
 > Built an Android AI input method MVP using Kotlin and `InputMethodService`, featuring Chinese quick replies, AI-powered continuation suggestions, OpenRouter API integration, coroutine-based async requests, OkHttp networking, JSON parsing, local API key injection, and duplicate-prefix-safe candidate insertion. The project can be installed and enabled as a system IME on a real Android device.
 ## Screenshots
 
+## Architecture
+
+```text
+Keyboard UI
+↓
+InputMethodService
+↓
+Coroutine async request
+↓
+OpenRouter API
+↓
+LLM suggestion JSON
+↓
+Candidate insertion logic
+```
+
 ### Keyboard Layout
 
 ![Keyboard](docs/screenshot_keyboard.png)
